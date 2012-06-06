@@ -1,0 +1,3 @@
+[submodule "External/libactivator"]
+	path = External/libactivator
+	url = https://github.com/rpetrich/libactivator.git

@@ -1,0 +1,9 @@
+Package: com.omegahern.keyboardactivator
+Priority: optional
+Section: System
+Architecture: iphoneos-arm
+Version: 0.1
+Description: Activator action for toggling visibility of the keyboard
+Name: Toggle visibility of the iOS Keboard
+Depends: mobilesubstrate, libactivator
+Author: James Magahern <james@magahern.com>
